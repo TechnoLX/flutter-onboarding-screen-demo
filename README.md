@@ -35,5 +35,5 @@ Please feel free to comment and edit to make it look better. This project was cr
 follow me @ <br/>
     1. Instagram - codelx21 (TechnoLX21) <br/>
     2. Twitter - @LxTechno <br/>
-    3. github - https://github.com/TechnoLX/flutter-tab-bar-demo <br/>
+    3. github - https://github.com/TechnoLX/flutter-onboarding-screen-demo <br/>
     4. Youtube Channel - https://www.youtube.com/channel/UCSjmTHiFunCjNwQEKxWEMpA <br/>
